@@ -1,0 +1,6 @@
+-std=c11
+-Wall
+-Wextra
+-I/opt/homebrew/include
+-I/Users/bahadirkarakus/Downloads/files
+

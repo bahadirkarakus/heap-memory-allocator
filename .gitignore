@@ -1,0 +1,30 @@
+# Compiled binaries & libraries
+test_basic
+test_buddy
+test_asan
+benchmark
+benchmark_buddy
+simulator
+gui_simulator
+*.o
+*.a
+*.so
+*.dylib
+*.dSYM/
+
+# OS & Editor files
+.DS_Store
+compile_commands.json
+
+# LaTeX / non-repo files
+*.tex
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+ius-logo.png
+
